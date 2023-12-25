@@ -3,4 +3,4 @@
 
  Technologies used: HTML,CSS, JavaScript
 
- Installation and usage:  adding sonn deployment link so you have to simply click and play
+ Installation and usage:  https://dice-roll-simulator-seven.vercel.app/
